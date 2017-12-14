@@ -34,9 +34,9 @@ happiness 7/10 missing some functionality
 
 ## Design
 
-basic. wanted to sort the images out and alignment, didnt show much of the data other than just the name of the product. is responsive on the index page, less so on in the individual project page
+very basic. wanted to sort the images out and alignment, didnt show much of the data other than just the name of the product. is responsive on the index page, less so on in the individual project page. no stylings on button or a heart showing if its in the collection. but the basics are there to build on, alignments etc
 
-happiness 5/10
+happiness 4/10
 
 ## Deployment
 
@@ -48,11 +48,13 @@ happiness 5/10 didnt do it but groundwork is there
 
 I wasnt super happy with any particular part of what I've done, but im kind of happier with the overall project than any of the constituent parts. it broadly works, and i think it can be built on
 
+happiness 7.5/10 under circumstances
+
 # Does it meet your requirements?
 
 ## Testing
 
-no, it fails miserably as there are no tests
+no, it fails miserably as there are no tests whatsoever
 
 happiness 0/10
 
